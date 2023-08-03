@@ -2,7 +2,8 @@ Business Card Application
 
 This is a simple Flutter application called "Business Card Application." It displays a virtual business card with user information, including a profile picture, name, job title, phone number, and email address.
 Screenshots
-![Screenshot (734).png](..%2F..%2FUsers%2Fuser%2FPictures%2FScreenshots%2FScreenshot%20%28734%29.png)
+
+![Screenshot (734)](https://github.com/umerqurreshi52422/Business_Card_Application_using-DART-FLUTTER-/assets/65500458/33b663f9-bc5f-421d-86e5-2b3593f281f7)
 
 Features
 
